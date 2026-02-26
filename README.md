@@ -2,13 +2,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jupower38300.Jupower38300&right_color=coral&left_text=Visiteurs"  />
-</div>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=Jupower38300&locale=fr&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
